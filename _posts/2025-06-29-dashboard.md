@@ -1,12 +1,15 @@
-# 검색 지표 대시보드
-
-날짜: 2025년 6월 27일
-배포: 안함
-상태: 진행 중
-
-# [DS/Product DS/Marketing] - 검색/성과 지표
-
-<br>
+---
+title: "[DS/Product DS/Marketing] 이커머스 산업에서 꼭 알아야 하는 지식들! - 검색/성과 지표 개념"
+author: eun
+date: 2025-06-29 22:26:00 +0900
+categories: [Data Science, Product DS]
+tags: [Intern, Marketing]
+render_with_liquid: true
+image:
+  path: https://ems.elancer.co.kr/99_upload/Append/T_Blog/editor/2024031401122245482.jpg
+  # lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
+  alt: Dashboard
+---
 
 DS팀에서는 고객의 행동 데이터를 분석해 대시보드를 제작하고, 이에 대한 성과를 올릴 수 있는 인사이트를 도출하는데요! 마케팅이나 영업 등 고객의 패턴을 추적하고 확인하는 데 있어서는 꼭꼭!!! 알아야 하는 개념들입니다. 회사에서 과제를 하나 수행하게 되었는데, 특정 조건에 대한 지표를 제작하는 것이었습니다. 생소한 내용이기 때문에 공부할 겸, 익숙해지고자 정리해보았습니다 ヾ(≧▽≦*)o
 
@@ -50,6 +53,13 @@ DS팀에서는 고객의 행동 데이터를 분석해 대시보드를 제작하
     - 지표를 통한 분석 접근 예)
         - 치즈 키워드를 검색했을 때, 소비자들은 50번째에 해당하는 상품을 가장 많이 구매한다. 그렇다면, 50번째에 있는 치즈를 위로 올리면 구매 전환율이 높아지지 않을까?
 
+<br><br>
+
+사실 코드로 직접 짜는게 더 쉬운데요! SQL로 삐꺼덕 거리고 있긴 합니다만, 아직은 이해하는 데 시간이 조금 걸리고 있습니다. 다음에는 직접 코드로 수식을 작성해보는 리뷰를 진행해보겠습니다! ヾ(≧▽≦*)o
+
 <br><br><br><br>
 
-다음에는 직접 코드로 수식을 작성해보는 리뷰를 진행해보겠습니다!
+### 🔗 참고 링크
+- []!(https://ems.elancer.co.kr/99_upload/Append/T_Blog/editor/2024031401122245482.jpg)
+
+
