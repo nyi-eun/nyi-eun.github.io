@@ -58,6 +58,6 @@ DS팀에서는 고객의 행동 데이터를 분석해 대시보드를 제작하
 <br><br><br><br>
 
 ### 🔗 참고 링크
-- []!(https://ems.elancer.co.kr/99_upload/Append/T_Blog/editor/2024031401122245482.jpg)
+- [https://ems.elancer.co.kr/99_upload/Append/T_Blog/editor/2024031401122245482.jpg](https://ems.elancer.co.kr/99_upload/Append/T_Blog/editor/2024031401122245482.jpg)
 
 
